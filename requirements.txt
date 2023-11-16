@@ -1,0 +1,13 @@
+flask
+Flask-Testing
+boto3
+python-dotenv
+openai~=0.27.9
+langchain~=0.0.272
+boto3
+flask-cognito-lib
+requests~=2.31.0
+psycopg2-binary
+pyway
+discord.py==2.3.1
+colorama~=0.4.6
